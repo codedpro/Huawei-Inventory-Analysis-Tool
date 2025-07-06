@@ -50,9 +50,10 @@ def get_status(ne_name1, ne_name2, ne_name3):
         return 'Others'
 
 item = "Board"
-RDate3 = "04_05_2024"
-RDate2 = "27_04_2024"
-RDate1 = "20_04_2024"
+RDate3 = "22_06_2024"
+RDate2 = "04_05_2024"
+RDate1 = "27_04_2024"
+
 
 Date1 = f"NEName {RDate1}"
 Date2 = f"NEName {RDate2}"

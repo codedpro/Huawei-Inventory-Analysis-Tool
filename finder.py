@@ -14,6 +14,6 @@ def search_csv(file_path, search_word):
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
-file_path = "04_05_2024/Huawei_Inventory_Board.csv"
-search_word = "NS723U3"
+file_path = "29_06_2024/Huawei_Inventory_Board.csv"
+search_word = "E553001840"
 search_csv(file_path, search_word)
